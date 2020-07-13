@@ -1,0 +1,22 @@
+{
+	"name": "fcc-learn-npm-package-json",
+  "author": "ruwanau ruwanau",
+  "description": "This is a project which does awesome things",
+  "keywords": ["awesome", "project", "freecodecamp"],
+  "license":"No copyrights",
+  "version":"1.0.0.1",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
